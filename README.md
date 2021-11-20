@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Hari
+- 
 - 👀 I’m interested in ..Softwar.
+- 
 - 🌱 I’m currently learning Skada Systam 
+- 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 I got many certifications from Coursera
 <!---
 oper7/oper7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
